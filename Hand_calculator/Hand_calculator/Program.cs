@@ -5,5 +5,5 @@ using Hand_calculator;
 Calculator cal = new Calculator();
 double a = 5;
 double b = 6;
-Console.WriteLine("add: " + cal.Add(a, b) + "\nSubstract: "
+Console.WriteLine("add: " + cal.Add(a, b) + "\nSubtract: "
     + cal.Subtract(a, b) + "\nMultiply:" + cal.Multiply(a, b)+"\npower: " + cal.Power(a, b));

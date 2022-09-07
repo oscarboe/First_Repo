@@ -1,15 +1,30 @@
-C:\Users\oscar\Downloads\AU\AU\4.semester\SW_Test\Hand_calculator\Hand_calculator\obj\Debug\net6.0\Hand_calculator.csproj.AssemblyReference.cache
-C:\Users\oscar\Downloads\AU\AU\4.semester\SW_Test\Hand_calculator\Hand_calculator\obj\Debug\net6.0\Hand_calculator.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\oscar\Downloads\AU\AU\4.semester\SW_Test\Hand_calculator\Hand_calculator\obj\Debug\net6.0\Hand_calculator.AssemblyInfoInputs.cache
-C:\Users\oscar\Downloads\AU\AU\4.semester\SW_Test\Hand_calculator\Hand_calculator\obj\Debug\net6.0\Hand_calculator.AssemblyInfo.cs
-C:\Users\oscar\Downloads\AU\AU\4.semester\SW_Test\Hand_calculator\Hand_calculator\obj\Debug\net6.0\Hand_calculator.csproj.CoreCompileInputs.cache
-C:\Users\oscar\Downloads\AU\AU\4.semester\SW_Test\Hand_calculator\Hand_calculator\bin\Debug\net6.0\Hand_calculator.exe
-C:\Users\oscar\Downloads\AU\AU\4.semester\SW_Test\Hand_calculator\Hand_calculator\bin\Debug\net6.0\Hand_calculator.deps.json
-C:\Users\oscar\Downloads\AU\AU\4.semester\SW_Test\Hand_calculator\Hand_calculator\bin\Debug\net6.0\Hand_calculator.runtimeconfig.json
-C:\Users\oscar\Downloads\AU\AU\4.semester\SW_Test\Hand_calculator\Hand_calculator\bin\Debug\net6.0\Hand_calculator.dll
-C:\Users\oscar\Downloads\AU\AU\4.semester\SW_Test\Hand_calculator\Hand_calculator\bin\Debug\net6.0\Hand_calculator.pdb
-C:\Users\oscar\Downloads\AU\AU\4.semester\SW_Test\Hand_calculator\Hand_calculator\obj\Debug\net6.0\Hand_calculator.dll
-C:\Users\oscar\Downloads\AU\AU\4.semester\SW_Test\Hand_calculator\Hand_calculator\obj\Debug\net6.0\refint\Hand_calculator.dll
-C:\Users\oscar\Downloads\AU\AU\4.semester\SW_Test\Hand_calculator\Hand_calculator\obj\Debug\net6.0\Hand_calculator.pdb
-C:\Users\oscar\Downloads\AU\AU\4.semester\SW_Test\Hand_calculator\Hand_calculator\obj\Debug\net6.0\Hand_calculator.genruntimeconfig.cache
-C:\Users\oscar\Downloads\AU\AU\4.semester\SW_Test\Hand_calculator\Hand_calculator\obj\Debug\net6.0\ref\Hand_calculator.dll
+C:/Users/oscar/Downloads/AU/AU/4.semester/SW_Test/Hand_calculator/Hand_calculator/obj/Debug/net6.0/Hand_calculator.csproj.AssemblyReference.cache
+C:/Users/oscar/Downloads/AU/AU/4.semester/SW_Test/Hand_calculator/Hand_calculator/obj/Debug/net6.0/Hand_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/oscar/Downloads/AU/AU/4.semester/SW_Test/Hand_calculator/Hand_calculator/obj/Debug/net6.0/Hand_calculator.AssemblyInfoInputs.cache
+C:/Users/oscar/Downloads/AU/AU/4.semester/SW_Test/Hand_calculator/Hand_calculator/obj/Debug/net6.0/Hand_calculator.AssemblyInfo.cs
+C:/Users/oscar/Downloads/AU/AU/4.semester/SW_Test/Hand_calculator/Hand_calculator/obj/Debug/net6.0/Hand_calculator.csproj.CoreCompileInputs.cache
+C:/Users/oscar/Downloads/AU/AU/4.semester/SW_Test/Hand_calculator/Hand_calculator/bin/Debug/net6.0/Hand_calculator.exe
+C:/Users/oscar/Downloads/AU/AU/4.semester/SW_Test/Hand_calculator/Hand_calculator/bin/Debug/net6.0/Hand_calculator.deps.json
+C:/Users/oscar/Downloads/AU/AU/4.semester/SW_Test/Hand_calculator/Hand_calculator/bin/Debug/net6.0/Hand_calculator.runtimeconfig.json
+C:/Users/oscar/Downloads/AU/AU/4.semester/SW_Test/Hand_calculator/Hand_calculator/bin/Debug/net6.0/Hand_calculator.dll
+C:/Users/oscar/Downloads/AU/AU/4.semester/SW_Test/Hand_calculator/Hand_calculator/bin/Debug/net6.0/Hand_calculator.pdb
+C:/Users/oscar/Downloads/AU/AU/4.semester/SW_Test/Hand_calculator/Hand_calculator/obj/Debug/net6.0/Hand_calculator.dll
+C:/Users/oscar/Downloads/AU/AU/4.semester/SW_Test/Hand_calculator/Hand_calculator/obj/Debug/net6.0/refint/Hand_calculator.dll
+C:/Users/oscar/Downloads/AU/AU/4.semester/SW_Test/Hand_calculator/Hand_calculator/obj/Debug/net6.0/Hand_calculator.pdb
+C:/Users/oscar/Downloads/AU/AU/4.semester/SW_Test/Hand_calculator/Hand_calculator/obj/Debug/net6.0/Hand_calculator.genruntimeconfig.cache
+C:/Users/oscar/Downloads/AU/AU/4.semester/SW_Test/Hand_calculator/Hand_calculator/obj/Debug/net6.0/ref/Hand_calculator.dll
+/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/bin/Debug/net6.0/Hand_calculator
+/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/bin/Debug/net6.0/Hand_calculator.deps.json
+/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/bin/Debug/net6.0/Hand_calculator.runtimeconfig.json
+/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/bin/Debug/net6.0/Hand_calculator.dll
+/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/bin/Debug/net6.0/Hand_calculator.pdb
+/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/obj/Debug/net6.0/Hand_calculator.csproj.AssemblyReference.cache
+/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/obj/Debug/net6.0/Hand_calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/obj/Debug/net6.0/Hand_calculator.AssemblyInfoInputs.cache
+/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/obj/Debug/net6.0/Hand_calculator.AssemblyInfo.cs
+/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/obj/Debug/net6.0/Hand_calculator.csproj.CoreCompileInputs.cache
+/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/obj/Debug/net6.0/Hand_calculator.dll
+/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/obj/Debug/net6.0/refint/Hand_calculator.dll
+/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/obj/Debug/net6.0/Hand_calculator.pdb
+/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/obj/Debug/net6.0/Hand_calculator.genruntimeconfig.cache
+/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/obj/Debug/net6.0/ref/Hand_calculator.dll

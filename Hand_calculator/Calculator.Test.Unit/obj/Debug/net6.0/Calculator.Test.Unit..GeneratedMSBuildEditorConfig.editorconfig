@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Calculator.Test.Unit_
-build_property.ProjectDir = C:\Users\oscar\Downloads\AU\AU\4.semester\SW_Test\Hand_calculator\Calculator.Test.Unit\
+build_property.ProjectDir = /Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Calculator.Test.Unit/
