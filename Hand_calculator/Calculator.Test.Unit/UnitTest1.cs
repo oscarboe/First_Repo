@@ -12,11 +12,6 @@ namespace Calculator.Test.Unit_
             uut=new Hand_calculator.Calculator();
         }
 
-        [Test]
-        public void alwaysPositive()
-        {
-            Assert.That(true);
-        }
 
         [Test]
         public void simpleAdd()
