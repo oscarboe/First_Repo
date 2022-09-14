@@ -54,7 +54,6 @@ namespace Calculator.Test.Unit_
            Assert.That(uut.Power(x, exp), Is.EqualTo(result));
         }
 
-        [TestCase(2, 3, 8)]
-     
+
     }
 }
