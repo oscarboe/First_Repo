@@ -39,5 +39,20 @@ namespace Hand_calculator
 
 
 
+        public double Divide(double dividend, double divison)
+        {
+            // Dividend er den øverste
+            // Devision må ikke være 0!
+
+            double answer;
+
+            if (divison == 0)
+                throw new DivideByZeroException();
+            answer = dividend / divison;
+            return answer;
+
+        }
+
+
     }
 }

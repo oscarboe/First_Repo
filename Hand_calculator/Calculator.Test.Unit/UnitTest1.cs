@@ -55,5 +55,21 @@ namespace Calculator.Test.Unit_
         }
 
 
+        // normal divide case
+        [TestCase(10, 5)]
+        public void Divide(double dividend, double divison)
+        {
+            Assert.That(uut.Divide(dividend, divison), Is.EqualTo(2));
+        }
+
+        // divide by zero exception case
+        [TestCase(10, 0)]
+        public void DivideZero(double dividend, double division)
+        {
+            
+            Assert.That(() => uut.Divide(dividend,division), Throws.TypeOf<DivideByZeroException>());
+
+        }
+
     }
 }

@@ -1,33 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Calculator.Test.Unit/Calculator.Test.Unit..csproj": {}
+    "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Calculator.Test.Unit\\Calculator.Test.Unit..csproj": {}
   },
   "projects": {
-    "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Calculator.Test.Unit/Calculator.Test.Unit..csproj": {
+    "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Calculator.Test.Unit\\Calculator.Test.Unit..csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Calculator.Test.Unit/Calculator.Test.Unit..csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Calculator.Test.Unit\\Calculator.Test.Unit..csproj",
         "projectName": "Calculator.Test.Unit.",
-        "projectPath": "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Calculator.Test.Unit/Calculator.Test.Unit..csproj",
-        "packagesPath": "/Users/kappel/.nuget/packages/",
-        "outputPath": "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Calculator.Test.Unit/obj/",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Calculator.Test.Unit\\Calculator.Test.Unit..csproj",
+        "packagesPath": "C:\\Users\\andreashalse\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Calculator.Test.Unit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/kappel/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\andreashalse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/Hand_calculator.csproj": {
-                "projectPath": "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/Hand_calculator.csproj"
+              "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Hand_calculator\\Hand_calculator.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Hand_calculator\\Hand_calculator.csproj"
               }
             }
           }
@@ -83,26 +85,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/Hand_calculator.csproj": {
+    "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Hand_calculator\\Hand_calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/Hand_calculator.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Hand_calculator\\Hand_calculator.csproj",
         "projectName": "Hand_calculator",
-        "projectPath": "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/Hand_calculator.csproj",
-        "packagesPath": "/Users/kappel/.nuget/packages/",
-        "outputPath": "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/obj/",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Hand_calculator\\Hand_calculator.csproj",
+        "packagesPath": "C:\\Users\\andreashalse\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Hand_calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/kappel/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\andreashalse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -136,7 +140,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
