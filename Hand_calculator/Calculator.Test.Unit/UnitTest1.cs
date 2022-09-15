@@ -54,7 +54,6 @@ namespace Calculator.Test.Unit_
            Assert.That(uut.Power(x, exp), Is.EqualTo(result));
         }
    
-<<<<<<< Updated upstream
         // normal divide case
         [TestCase(10, 5)]
         public void Divide(double dividend, double divison)
@@ -71,7 +70,7 @@ namespace Calculator.Test.Unit_
 
         }
 
-=======
+        //Accumulator
         [Test]
         public void Accumulator_multiply()
         {
@@ -103,6 +102,5 @@ namespace Calculator.Test.Unit_
             uut.Subtract(20, 5);
             Assert.That(uut.Accumulator, Is.EqualTo(5));
         }
->>>>>>> Stashed changes
     }
 }

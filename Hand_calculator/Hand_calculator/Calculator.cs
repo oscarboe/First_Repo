@@ -15,6 +15,7 @@ namespace Hand_calculator
         public double Add(double a, double b)
         {
             Accumulator+=a+b;
+
             return a + b;
         }
         public double Subtract(double a, double b)
@@ -36,9 +37,6 @@ namespace Hand_calculator
             return Math.Pow(x,exp);
     
         }
-<<<<<<< Updated upstream
-
-
 
         public double Divide(double dividend, double divison)
         {
@@ -53,9 +51,5 @@ namespace Hand_calculator
             return answer;
 
         }
-
-
-=======
->>>>>>> Stashed changes
     }
 }
