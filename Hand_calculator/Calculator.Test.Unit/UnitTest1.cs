@@ -56,6 +56,7 @@ namespace Calculator.Test.Unit_
    
         // normal divide case
         [TestCase(10, 5)]
+        [TestCase(20, 10)]
         public void Divide(double dividend, double divison)
         {
             Assert.That(uut.Divide(dividend, divison), Is.EqualTo(2));
