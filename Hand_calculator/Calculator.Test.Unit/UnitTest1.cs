@@ -12,15 +12,30 @@ namespace Calculator.Test.Unit_
             uut=new Hand_calculator.Calculator();
         }
 
+<<<<<<< HEAD
+        [Test]
+        public void simpleAdd()
+=======
 
-        [TestCase(9, 10, 19)]
+        [TestCase(8, 9, 17)]
         [TestCase(3.5, 2.5, 6)]
         [TestCase(-3,-5,-8)]
         public void simpleAdd(double a,double b, double x)
+>>>>>>> b7ebf92cd9210ac63298331a867ae37fdaf34a23
         {
             //uut = new Hand_calculator.Calculator();
             
             
+<<<<<<< HEAD
+            Assert.That(uut.Add(9,10),Is.EqualTo(19));
+            
+            
+        }
+
+     
+        [Test]
+        public void Substract()
+=======
             Assert.That(uut.Add(a,b),Is.EqualTo(x));
         }
 
@@ -28,6 +43,7 @@ namespace Calculator.Test.Unit_
         [TestCase(3.5, 4.5, -1)]
         [TestCase(-10, -9, -1)]
         public void Substract(double a, double b, double x)
+>>>>>>> b7ebf92cd9210ac63298331a867ae37fdaf34a23
         {
            // uut = new Hand_calculator.Calculator();
 
