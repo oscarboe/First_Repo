@@ -10,7 +10,7 @@ namespace Hand_calculator
 {
     public class Calculator
     {
-        public double Accumulator{get; private set;}
+        public double Accumulator{get; private set;}=0;
 
         public double Add(double a, double b)
         {
@@ -36,8 +36,26 @@ namespace Hand_calculator
             return Math.Pow(x,exp);
     
         }
+<<<<<<< Updated upstream
 
 
 
+        public double Divide(double dividend, double divison)
+        {
+            // Dividend er den øverste
+            // Devision må ikke være 0!
+
+            double answer;
+
+            if (divison == 0)
+                throw new DivideByZeroException();
+            answer = dividend / divison;
+            return answer;
+
+        }
+
+
+=======
+>>>>>>> Stashed changes
     }
 }

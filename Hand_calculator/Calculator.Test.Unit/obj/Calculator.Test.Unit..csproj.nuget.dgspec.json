@@ -1,3 +1,152 @@
+<<<<<<< Updated upstream
+{
+  "format": 1,
+  "restore": {
+    "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Calculator.Test.Unit\\Calculator.Test.Unit..csproj": {}
+  },
+  "projects": {
+    "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Calculator.Test.Unit\\Calculator.Test.Unit..csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Calculator.Test.Unit\\Calculator.Test.Unit..csproj",
+        "projectName": "Calculator.Test.Unit.",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Calculator.Test.Unit\\Calculator.Test.Unit..csproj",
+        "packagesPath": "C:\\Users\\andreashalse\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Calculator.Test.Unit\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\andreashalse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Hand_calculator\\Hand_calculator.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Hand_calculator\\Hand_calculator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "NunitXml.TestLogger": {
+              "target": "Package",
+              "version": "[3.0.117, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Hand_calculator\\Hand_calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Hand_calculator\\Hand_calculator.csproj",
+        "projectName": "Hand_calculator",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Hand_calculator\\Hand_calculator.csproj",
+        "packagesPath": "C:\\Users\\andreashalse\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Hand_calculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\andreashalse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+=======
 {
   "format": 1,
   "restore": {
@@ -60,7 +209,7 @@
             },
             "NunitXml.TestLogger": {
               "target": "Package",
-              "version": "[3.0.117, )"
+              "version": "[3.0.127, )"
             },
             "coverlet.collector": {
               "target": "Package",
@@ -83,7 +232,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -136,9 +285,10 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }
   }
+>>>>>>> Stashed changes
 }
