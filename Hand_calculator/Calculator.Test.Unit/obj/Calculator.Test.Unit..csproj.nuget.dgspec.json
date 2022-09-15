@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
   "format": 1,
   "restore": {
@@ -145,4 +146,149 @@
       }
     }
   }
+=======
+{
+  "format": 1,
+  "restore": {
+    "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Calculator.Test.Unit/Calculator.Test.Unit..csproj": {}
+  },
+  "projects": {
+    "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Calculator.Test.Unit/Calculator.Test.Unit..csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Calculator.Test.Unit/Calculator.Test.Unit..csproj",
+        "projectName": "Calculator.Test.Unit.",
+        "projectPath": "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Calculator.Test.Unit/Calculator.Test.Unit..csproj",
+        "packagesPath": "/Users/kappel/.nuget/packages/",
+        "outputPath": "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Calculator.Test.Unit/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kappel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/Hand_calculator.csproj": {
+                "projectPath": "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/Hand_calculator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "NunitXml.TestLogger": {
+              "target": "Package",
+              "version": "[3.0.127, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/Hand_calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/Hand_calculator.csproj",
+        "projectName": "Hand_calculator",
+        "projectPath": "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/Hand_calculator.csproj",
+        "packagesPath": "/Users/kappel/.nuget/packages/",
+        "outputPath": "/Users/kappel/4. semester/SWT/Exercise 1.2/repo/First_Repo/Hand_calculator/Hand_calculator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kappel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+>>>>>>> Stashed changes
 }

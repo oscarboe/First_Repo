@@ -10,7 +10,7 @@ namespace Hand_calculator
 {
     public class Calculator
     {
-        public double Accumulator{get; private set;}
+        public double Accumulator{get; private set;}=0;
 
         public double Add(double a, double b)
         {
@@ -36,6 +36,7 @@ namespace Hand_calculator
             return Math.Pow(x,exp);
     
         }
+<<<<<<< Updated upstream
 
 
 
@@ -54,5 +55,7 @@ namespace Hand_calculator
         }
 
 
+=======
+>>>>>>> Stashed changes
     }
 }

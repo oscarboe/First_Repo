@@ -53,8 +53,8 @@ namespace Calculator.Test.Unit_
            // uut = new Hand_calculator.Calculator()
            Assert.That(uut.Power(x, exp), Is.EqualTo(result));
         }
-
-
+   
+<<<<<<< Updated upstream
         // normal divide case
         [TestCase(10, 5)]
         public void Divide(double dividend, double divison)
@@ -71,5 +71,38 @@ namespace Calculator.Test.Unit_
 
         }
 
+=======
+        [Test]
+        public void Accumulator_multiply()
+        {
+            uut.Multiply(3, 3);
+            uut.Multiply(3, 3);
+            Assert.That(uut.Accumulator, Is.EqualTo(18));
+        }
+
+        [Test]
+        public void Accumulator_arithmetic()
+        {
+            uut.Add(10, 10);
+            uut.Subtract(3, 2);
+            Assert.That(uut.Accumulator, Is.EqualTo(21));
+        }
+
+        [Test]
+        public void Accumulator_simpleAdd_Twice()
+        {
+            uut.Add(5,5);
+            uut.Add(10,10);
+            Assert.That(uut.Accumulator, Is.EqualTo(30));
+        }
+
+        [Test]
+        public void Accumulator_subtract()
+        {
+            uut.Subtract(10, 20);
+            uut.Subtract(20, 5);
+            Assert.That(uut.Accumulator, Is.EqualTo(5));
+        }
+>>>>>>> Stashed changes
     }
 }
