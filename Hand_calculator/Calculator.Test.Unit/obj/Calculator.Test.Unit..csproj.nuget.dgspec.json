@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Calculator.Test.Unit\\Calculator.Test.Unit..csproj": {}
+    "C:\\Users\\oscar\\Downloads\\AU\\AU\\4.semester\\SW_Test\\First_Repo\\Hand_calculator\\Calculator.Test.Unit\\Calculator.Test.Unit..csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Calculator.Test.Unit\\Calculator.Test.Unit..csproj": {
+    "C:\\Users\\oscar\\Downloads\\AU\\AU\\4.semester\\SW_Test\\First_Repo\\Hand_calculator\\Calculator.Test.Unit\\Calculator.Test.Unit..csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Calculator.Test.Unit\\Calculator.Test.Unit..csproj",
+        "projectUniqueName": "C:\\Users\\oscar\\Downloads\\AU\\AU\\4.semester\\SW_Test\\First_Repo\\Hand_calculator\\Calculator.Test.Unit\\Calculator.Test.Unit..csproj",
         "projectName": "Calculator.Test.Unit.",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Calculator.Test.Unit\\Calculator.Test.Unit..csproj",
-        "packagesPath": "C:\\Users\\andreashalse\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Calculator.Test.Unit\\obj\\",
+        "projectPath": "C:\\Users\\oscar\\Downloads\\AU\\AU\\4.semester\\SW_Test\\First_Repo\\Hand_calculator\\Calculator.Test.Unit\\Calculator.Test.Unit..csproj",
+        "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oscar\\Downloads\\AU\\AU\\4.semester\\SW_Test\\First_Repo\\Hand_calculator\\Calculator.Test.Unit\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\andreashalse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Hand_calculator\\Hand_calculator.csproj": {
-                "projectPath": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Hand_calculator\\Hand_calculator.csproj"
+              "C:\\Users\\oscar\\Downloads\\AU\\AU\\4.semester\\SW_Test\\First_Repo\\Hand_calculator\\Hand_calculator\\Hand_calculator.csproj": {
+                "projectPath": "C:\\Users\\oscar\\Downloads\\AU\\AU\\4.semester\\SW_Test\\First_Repo\\Hand_calculator\\Hand_calculator\\Hand_calculator.csproj"
               }
             }
           }
@@ -89,17 +94,21 @@
         }
       }
     },
-    "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Hand_calculator\\Hand_calculator.csproj": {
+    "C:\\Users\\oscar\\Downloads\\AU\\AU\\4.semester\\SW_Test\\First_Repo\\Hand_calculator\\Hand_calculator\\Hand_calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Hand_calculator\\Hand_calculator.csproj",
+        "projectUniqueName": "C:\\Users\\oscar\\Downloads\\AU\\AU\\4.semester\\SW_Test\\First_Repo\\Hand_calculator\\Hand_calculator\\Hand_calculator.csproj",
         "projectName": "Hand_calculator",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Hand_calculator\\Hand_calculator.csproj",
-        "packagesPath": "C:\\Users\\andreashalse\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\Uni_mappen\\4.Semester\\Software Test\\Exercises\\Calculator_repo\\Hand_calculator\\Hand_calculator\\obj\\",
+        "projectPath": "C:\\Users\\oscar\\Downloads\\AU\\AU\\4.semester\\SW_Test\\First_Repo\\Hand_calculator\\Hand_calculator\\Hand_calculator.csproj",
+        "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oscar\\Downloads\\AU\\AU\\4.semester\\SW_Test\\First_Repo\\Hand_calculator\\Hand_calculator\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\andreashalse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -107,6 +116,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
